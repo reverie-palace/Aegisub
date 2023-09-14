@@ -16,7 +16,7 @@
 	ignore = dirty
 [submodule "ffms2"]
 	path = vendor/ffms2
-	url = git://github.com/FFMS/ffms2.git
+	url = https://github.com/FFMS/ffms2.git
 	branch = master
 	ignore = dirty
 [submodule "libass"]
