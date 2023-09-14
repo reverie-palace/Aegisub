@@ -4,11 +4,11 @@
 	ignore = dirty
 [submodule "wxWidgets"]
 	path = vendor/wxWidgets
-	url = git://github.com/Aegisub/wxWidgets.git
+	url = https://github.com/Aegisub/wxWidgets.git
 	ignore = dirty
 [submodule "googletest"]
 	path = vendor/googletest
-	url = git://github.com/svn2github/googletest.git
+	url = https://github.com/svn2github/googletest.git
 	ignore = dirty
 [submodule "ffmpeg"]
 	path = vendor/ffmpeg
@@ -21,11 +21,11 @@
 	ignore = dirty
 [submodule "libass"]
 	path = vendor/libass
-	url = git://github.com/libass/libass.git
+	url = https://github.com/libass/libass.git
 	branch = master
 [submodule "icu"]
 	path = vendor/icu
-	url = git://github.com/svn2github/icu4c.git
+	url = https://github.com/svn2github/icu4c.git
 	branch = master
 	ignore = dirty
 [submodule "boost"]
@@ -38,5 +38,5 @@
 	ignore = dirty
 [submodule "uchardet"]
 	path = vendor/uchardet
-	url = https://github.com/BYVoid/uchardet
+	url = https://github.com/BYVoid/uchardet.git
 	ignore = dirty
